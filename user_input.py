@@ -8,4 +8,4 @@ age = input("Enter your age: ")
 location = input("Enter your location: ")
 
 # Print out
-print(f"Hello my name is {name}, I am {age} years old and live in {location}.")
+print(f"Hello my name is {name}, i am {age} years old and live in {location}.")
